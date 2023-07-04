@@ -1,0 +1,8 @@
+{
+    "ftphost": "127.0.0.1", 
+    "ftpuser": "testftp", 
+    "ftppassword": "testftp", 
+    "ftpfolder": "/multas",
+    "localfolder" : "C:/temp/apelacion",
+    "filepattern" : "[yyyymmdd]-RecursosApelacion-Exportacion-A-David+.txt"
+}
